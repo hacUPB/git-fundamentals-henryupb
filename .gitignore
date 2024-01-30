@@ -1,1 +1,3 @@
-fact
+*.exe
+/.vscode/
+
